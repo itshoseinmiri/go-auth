@@ -15,5 +15,5 @@ A simple authentication API built with Go, Gin, JWT, and PostgreSQL.
 1. Clone the repository:
 
    ```bash
-   git clone https://gitlab.com/yourusername/go-auth-api.git
-   cd go-auth-api
+   git clone https://github.com/itshoseinmiri/go-auth.git
+   cd go-auth
